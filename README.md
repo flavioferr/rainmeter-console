@@ -2,6 +2,10 @@
 
 **Terminal: fetch do sistema, prompt de busca, todo.txt e player em ASCII.**
 
+*Console — Terminal: system fetch, search prompt, todo.txt and an ASCII player.*
+
+Agora também em inglês · Now also in English · [English below](#english)
+
 Skin para o [Rainmeter](https://www.rainmeter.net), minimalista e com tela de configurações própria.
 
 ![Console](docs/hero.png)
@@ -54,6 +58,7 @@ Prefira o `.rmskin`: ele já instala o plugin de música. A pasta [`Console`](Co
 
 ## Dicas
 
+- **Idioma:** botão direito em qualquer widget → **English** (ou o botão **EN** nas configurações). Para voltar, **Português**.
 - **Música:** o player lê tudo que aparece nos controles de mídia do Windows — Spotify, YouTube, Netflix e qualquer site no Chrome/Edge/Firefox, Apple Music, Deezer, VLC… O plugin [WebNowPlaying](https://github.com/keifufu/WebNowPlaying-Rainmeter) (MIT) já vem dentro do `.rmskin`; a [extensão do navegador](https://wnp.keifufu.dev) é opcional. Clique na barra de progresso para pular.
 - **Clima:** digite sua cidade nas configurações; as coordenadas são buscadas sozinhas (se não encontrar, tente sem acento). Os dados vêm do [Open-Meteo](https://open-meteo.com), gratuito e sem chave de API.
 - **Mover:** arraste os widgets com o mouse.
@@ -78,6 +83,51 @@ Outras skins da mesma leva:
 - [Régua](https://github.com/flavioferr/rainmeter-regua) — A linha do dia: régua de 24h com o agora, nascer e pôr do sol.
 
 E mais 12 na coleção: [Lumen](https://github.com/flavioferr/rainmeter-lumen), [Horizon](https://github.com/flavioferr/rainmeter-horizon), [Orbit](https://github.com/flavioferr/rainmeter-orbit), [Shell](https://github.com/flavioferr/rainmeter-shell), [Folio](https://github.com/flavioferr/rainmeter-folio), [Bento](https://github.com/flavioferr/rainmeter-bento), [Prisma](https://github.com/flavioferr/rainmeter-prisma), [Linea](https://github.com/flavioferr/rainmeter-linea), [Pixel](https://github.com/flavioferr/rainmeter-pixel), [Soft](https://github.com/flavioferr/rainmeter-soft), [Swiss](https://github.com/flavioferr/rainmeter-swiss) e [Island](https://github.com/flavioferr/rainmeter-island).
+
+---
+
+## English
+
+**Console** — Terminal: system fetch, search prompt, todo.txt and an ASCII player.
+
+A minimalist skin for [Rainmeter](https://www.rainmeter.net) with its own settings screen, now in **English and Portuguese**.
+
+### Widgets
+
+| Widget | What it shows |
+|---|---|
+| **Search** | Search prompt: type and press Enter. Click the engine to switch (Google, YouTube, Wikipedia, Spotify). |
+| **Fetch** | System summary in neofetch style: Windows, uptime, CPU, RAM, disk, weather and time. |
+| **Time** | Big time with a blinking cursor, date, week and day of the year. |
+| **Tasks** | todo.txt with up to six items: click to edit, the little box to check. |
+| **Now playing** | Text player with a clickable ASCII bar. |
+
+### Themes
+
+4 ready-made themes: Match, Amber, Drácula, Solar.
+
+### Installation
+
+1. Install [Rainmeter](https://www.rainmeter.net) (4.5 or newer).
+2. Download [`Console.rmskin`](https://github.com/flavioferr/rainmeter-console/releases/latest) from the Releases page.
+3. Double-click the file and click **Install**.
+4. Right-click any widget and choose **English**. The whole suite switches language (and back with **Português**).
+
+### Tips
+
+- **Settings:** right-click any widget → **Settings** (there is also an **EN/PT** button next to the close button).
+- **Music:** the player reads everything in the Windows media controls — Spotify, YouTube, Netflix and any website in the browser, Apple Music, Deezer, VLC… The [WebNowPlaying](https://github.com/keifufu/WebNowPlaying-Rainmeter) plugin (MIT) is included in the `.rmskin`.
+- **Weather:** type your city in the settings; the coordinates are looked up automatically. Data from [Open-Meteo](https://open-meteo.com), free and without an API key.
+
+### Requirements
+
+Windows 10 or 11 and Rainmeter 4.5+. If the player stays empty, install the [Microsoft Visual C++ Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe).
+
+### License
+
+[CC BY-NC-SA 4.0](LICENSE.md) — use, modify and share with credit, non-commercially.
+
+---
 
 ## Licença
 
